@@ -1,0 +1,18 @@
+{
+    "name": "dkzr/dkzr-event-maker-fixes",
+    "description": "Fix PHP7.1+ issues in Event Maker plugin"
+    "keywords": ["wordpress"],
+    "homepage": "https://dkzr.nl/",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Joost de Keijzer",
+            "email": "j@dkzr.nl",
+            "homepage": "https://dkzr.nl/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "extra": {
+        "installer-name": "dkzr-event-maker-fixes"
+    }
+}
