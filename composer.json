@@ -1,6 +1,6 @@
 {
     "name": "dkzr/dkzr-event-maker-fixes",
-    "description": "Fix PHP7.1+ issues in Event Maker plugin"
+    "description": "Fix PHP7.1+ issues in Event Maker plugin",
     "keywords": ["wordpress"],
     "homepage": "https://dkzr.nl/",
     "license": "GPL-2.0+",
